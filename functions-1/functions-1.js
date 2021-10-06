@@ -13,8 +13,8 @@
 // 	Function #2
 // Take two strings as arguments and return a value that has them concatenated.
 
-function concat(string1, string2){
+function concat(string, string2){
     return string1 + String2;
 }
 
-console.log(concat(dkfjdk, djkfjdkf))
+console.log(concat('3465', '345'))
