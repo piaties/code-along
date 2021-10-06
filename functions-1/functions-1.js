@@ -14,7 +14,6 @@
 // Take two strings as arguments and return a value that has them concatenated.
 
 function concat(string, string2){
-    return string1 + String2;
+    return string + string2;
 }
-
-console.log(concat('3465', '345'))
+console.log(concat('3465', 'fdksjfks;l'))
